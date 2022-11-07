@@ -1,4 +1,6 @@
-# game_carrot
-# game_carrot
-# game_carrot
-# game_carrot
+### 당근 뽑기 게임🥕
+
+<br/>
+
+<h1>프로젝트 소개</h1>
+<p>dd</p>
